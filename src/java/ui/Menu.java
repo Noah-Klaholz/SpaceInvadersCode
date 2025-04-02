@@ -77,7 +77,7 @@ public class Menu extends JPanel implements MouseListener{
         g.setColor(Color.lightGray);
         g.setFont(middle);
         g.drawString("Start", startX + 110, startY + 43);
-        g.drawString("src.java.core.entities.Statistics", statsX + 75, statsY + 43);
+        g.drawString("Statistics", statsX + 75, statsY + 43);
         g.drawString("Sandbox-Mode", sandBoxX + 28, sandBoxY + 43);
         g.setFont(veryBig);
         g.setColor(Color.red);

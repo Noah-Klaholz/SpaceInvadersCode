@@ -5,116 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca9112b3-b3b4-4e62-836e-495e064d9ba7" name="Changes" comment="Files">
-      <change afterPath="$PROJECT_DIR$/src/java/core/entities/Shot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/core/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/core/items/Heart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/core/items/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/core/items/MoveSpeedUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/core/items/MultiShot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/core/items/ShotSpeedUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/core/entities/Alien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackgroundMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/audio/BackgroundMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/core/entities/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayTable.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/DisplayTable.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisplayTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/DisplayTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Einstellungen.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/Einstellungen.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Einstellungen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/Einstellungen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explosion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/Explosion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoginForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/LoginForm.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoginForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/LoginForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MenuMusik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/audio/MenuMusik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoveSpeedUp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiShot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/core/entities/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/RegistrationForm.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegistrationForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/RegistrationForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShotSpeedUp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Soundeffects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/audio/Soundeffects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/app/Starter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/core/entities/Statistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/GameOver0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/GameOver0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/GameOver1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/GameOver1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/GameOver2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/GameOver2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/GameOver3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/GameOver3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/GameOver4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/GameOver4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/GameOver5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/GameOver5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/ItemsPickUpSound.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/ItemsPickUpSound.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/MenuMusic.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/MenuMusic.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/Shot.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/Shot.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/backgroundMusic.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/backgroundMusic.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/explosionSound.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/explosionSound.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/player_gethit.wav" beforeDir="false" afterPath="$PROJECT_DIR$/audioTracks/player_gethit.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SpaceInvaders_jar/SpaceInvaders.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpaceInvaders_jar/SpaceInvaders.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpaceInvaders/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpaceInvaders/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpaceInvaders/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Alien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/BackgroundMusic$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/BackgroundMusic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Board$TAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Board.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Character.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/DisplayTable$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/DisplayTable$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/DisplayTable$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/DisplayTable$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/DisplayTable$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/DisplayTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Einstellungen$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Einstellungen$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Einstellungen$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Einstellungen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Explosion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Heart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/LoginForm$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/LoginForm$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/LoginForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpaceInvaders/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/MenuMusik$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/MenuMusik.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/MoveSpeedUp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/MultiShot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/RegistrationForm$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/RegistrationForm$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/RegistrationForm$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/RegistrationForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Shot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/ShotSpeedUp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Soundeffects$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Soundeffects$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Soundeffects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Starter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/Statistics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/GameOver0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/GameOver1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/GameOver2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/GameOver3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/GameOver4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/GameOver5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/ItemsPickUpSound.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/MenuMusic.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/Shot.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/backgroundMusic.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/explosionSound.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpaceInvaders/audio/player_gethit.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/ui/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ui/Menu.java" afterDir="false" />
     </list>
     <list id="f565d217-6e84-4127-88fa-f570cf3e0bad" name="Changes by emili" comment="Changes by Emilia" />
     <list id="2d97857d-e5a1-4a87-9cd9-2106d9a966fe" name="Changes by noahk" comment="" />
@@ -279,7 +170,7 @@
       <workItem from="1743462330130" duration="301000" />
       <workItem from="1743574972248" duration="265000" />
       <workItem from="1743575248584" duration="435000" />
-      <workItem from="1743577170514" duration="1211000" />
+      <workItem from="1743577170514" duration="1271000" />
     </task>
     <task id="LOCAL-00001" summary="Files">
       <created>1681496989712</created>
