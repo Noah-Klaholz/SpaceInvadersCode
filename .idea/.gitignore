@@ -3,6 +3,9 @@
 /*.iml
 /out/
 
+# Specifically ignore database credentials
+.idea/dbnavigator.xml
+
 # Compiled class files
 *.class
 
