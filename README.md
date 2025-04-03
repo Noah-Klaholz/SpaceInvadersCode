@@ -59,5 +59,7 @@ Das Projekt verwendet reines Java mit AWT und Swing für die Rendering-Komponent
 ## Mitwirkende
 
 [Noah Klaholz](https://noahklaholz.netlify.app)
+
 [Emilia Zomorodi](https://www.linkedin.com/in/emilia-zomorodi-4a4b57329?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNaOdMOyQwiuGO0dnkgbAA%3D%3D)
+
 [Golmi09](https://github.com/Golmi09)
